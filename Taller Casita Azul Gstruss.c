@@ -9,7 +9,7 @@ void consulta_n();
 void promedio_n();
 
 int calificaciones(int nota1_n, int nota2_n, int nota3_n);
-int i,x,promedioTotal,sumaTotal;
+int i,x,;
 
 int nota1_n;
 int nota2_n;
